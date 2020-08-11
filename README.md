@@ -13,3 +13,7 @@ open `~/.zshrc`
 save and close file...
 
 run `. ~/.zshrc`
+
+(extra credit, delete repo this repo)
+
+https://github.com/briankeegan/brians-magic/edit/master/README.md
