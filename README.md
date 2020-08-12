@@ -18,8 +18,8 @@ run `. ~/.zshrc`
 
 ##### Stashed vs unstashed changes:
 
-![Stashed vs unstashed image](/.stashed_unstashed.png)
+![Stashed vs unstashed image](stashed_unstashed.png)
 
 ##### shows when using pip
 
-![Pip example image](/.pip.png)
+![Pip example image](pip.png)
