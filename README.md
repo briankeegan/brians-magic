@@ -14,7 +14,7 @@ save and close file...
 
 run `. ~/.zshrc`
 
-(extra credit, delete this repo)
+(extra credit, [delete this repo](https://github.com/amberwhizin/brians-magic))
 
 ##### Stashed vs unstashed changes:
 
